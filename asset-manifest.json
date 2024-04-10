@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/template-repo-from-create-react-app/static/css/main.7e6d722f.css",
+    "main.js": "/template-repo-from-create-react-app/static/js/main.c55b2d15.js",
+    "index.html": "/template-repo-from-create-react-app/index.html",
+    "main.7e6d722f.css.map": "/template-repo-from-create-react-app/static/css/main.7e6d722f.css.map",
+    "main.c55b2d15.js.map": "/template-repo-from-create-react-app/static/js/main.c55b2d15.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e6d722f.css",
+    "static/js/main.c55b2d15.js"
+  ]
+}
