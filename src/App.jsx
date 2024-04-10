@@ -6,7 +6,6 @@ function App() {
     // <SharedLayout>
     //   <Routes>
     //     {/* <Route index path="/" element={<WelcomePage />} /> */}
-
     //   </Routes>
     // </SharedLayout>
   );
